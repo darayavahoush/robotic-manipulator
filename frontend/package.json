@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "robotic-manipulator-frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -30,5 +30,20 @@
     "postcss": "^8.5.10",
     "tailwindcss": "^4.2.2",
     "vite": "^8.0.4"
-  }
+  },
+  "description": "3D interactive simulator for 3-DOF robotic manipulators with kinematics and trajectory tracking",
+  "homepage": "https://robotic-manipulator-bice.vercel.app",
+  "author": "Ananya Sridhar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azureirisZ/robotic-manipulator.git"
+  },
+  "keywords": [
+    "robotics",
+    "inverse-kinematics",
+    "threejs",
+    "react",
+    "vite",
+    "simulation"
+  ]
 }
